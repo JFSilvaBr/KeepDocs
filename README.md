@@ -11,3 +11,5 @@
 [Legacy php5 Zend](https://php-legacy-docs.zend.com/manual/php5/en/index)
 
 [You can download a copy in the documentation archives.](http://doc.php.net/archives/php5)
+
+[museum.php.net/php5](https://museum.php.net/php5)
