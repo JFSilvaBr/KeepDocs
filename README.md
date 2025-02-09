@@ -4,6 +4,10 @@
 
 # Save Urls
 
-[Windows Terminal](https://github.com/microsoft/terminal/releases/tag/v1.17.11461.0)
+[Windows Terminal](https://github.com/microsoft/terminal/releases)
 
-[PowerShell](https://learn.microsoft.com/pt-br/powershell/?view=powershell-7.4)
+[PowerShell](https://learn.microsoft.com/pt-br/powershell)
+
+[Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+[Pacote Redistribuível do Microsoft Visual C++](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170)
